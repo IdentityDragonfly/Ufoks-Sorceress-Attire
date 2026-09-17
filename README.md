@@ -1,7 +1,7 @@
 # Ufoks-Sorceress-Attire
 Lore-friendly sorceress attire for Skyrim SE/AE. Light armour or clothing. Supports 3BA, CBBE, UBE with SMP skirt. Craftable, temperable, Bodyslide-ready, PBR textures. Requires PGPatcher.
 # Ufok's Sorceress Attire (3BA - UBE) — Skyrim SE Mod
-
+![Ufok's Sorceress Attire banner](assets/banner.webp)
 [![Latest Release](https://img.shields.io/github/v/release/IdentityCuckoo/Ufoks-Sorceress-Attire?style=flat-square&color=red&label=latest)](https://github.com/IdentityCuckoo/Ufoks-Sorceress-Attire/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/IdentityCuckoo/Ufoks-Sorceress-Attire/total?style=flat-square&color=blue)](https://github.com/IdentityCuckoo/Ufoks-Sorceress-Attire/releases)
 [![License](https://img.shields.io/badge/license-MIT-yellow?style=flat-square)](LICENSE)
