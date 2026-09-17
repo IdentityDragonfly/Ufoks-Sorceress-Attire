@@ -22,7 +22,7 @@ A high-quality outfit made from scratch for **Skyrim Special Edition**. Availabl
 
 The installer is a single `.exe` file. Run it, follow the on-screen steps, done.
 
----
+![Ufok's Sorceress Attire banner](assets/banner1.webp)
 
 ## ✨ Features
 
